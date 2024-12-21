@@ -1,0 +1,15 @@
+/Users/eugenefhill/Software Development Projects/Simple Calculator/bin/Debug/net7.0/Simple Calculator
+/Users/eugenefhill/Software Development Projects/Simple Calculator/bin/Debug/net7.0/Simple Calculator.deps.json
+/Users/eugenefhill/Software Development Projects/Simple Calculator/bin/Debug/net7.0/Simple Calculator.runtimeconfig.json
+/Users/eugenefhill/Software Development Projects/Simple Calculator/bin/Debug/net7.0/Simple Calculator.dll
+/Users/eugenefhill/Software Development Projects/Simple Calculator/bin/Debug/net7.0/Simple Calculator.pdb
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.csproj.AssemblyReference.cache
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.AssemblyInfoInputs.cache
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.AssemblyInfo.cs
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.csproj.CoreCompileInputs.cache
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.dll
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/refint/Simple Calculator.dll
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.pdb
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/Simple Calculator.genruntimeconfig.cache
+/Users/eugenefhill/Software Development Projects/Simple Calculator/obj/Debug/net7.0/ref/Simple Calculator.dll
